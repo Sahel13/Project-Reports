@@ -1,3 +1,3 @@
 # project_reports
 
-Repository to host the necessary documents for college applications.
+Repository to host reports and presentations of my various academic and research projects. 
